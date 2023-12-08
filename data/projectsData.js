@@ -1,28 +1,28 @@
 const projectsData = [
   {
-    title: 'Fabrilab',
-    description: `Creation of a web design agency.`,
-    imgSrc: '/static/images/projects/fabrilab.png',
-    href: '/blog/projects/fabrilab-web-agency',
+    title: 'Koyu Laundry',
+    description: `Professional Laundry Services.`,
+    imgSrc: '/static/images/projects/logo_koyulaundry.png',
+    href: '/blog/projects/koyulaundry',
   },
   {
-    title: 'Toy Surfboards',
-    description: `Creation & developpement of a e-commerce website.`,
-    imgSrc: '/static/images/projects/browser_toy.png',
-    href: '/blog/projects/toy-surfboards',
+    title: 'Mega Jaya Abadi',
+    description: `electronics store, providing technological products.`,
+    imgSrc: '/static/images/projects/logo_mjapart.png',
+    href: '/blog/projects/mjapart',
   },
   {
-    title: 'TotalEnergies',
-    description: `Creation of Guidelines for Small & Big Packaging.`,
-    imgSrc: '/static/images/projects/TE-Project-2022.png',
-    href: '/blog/projects/total-energies',
+    title: 'Pasar Kita App',
+    description: `Shop Your Needs, Made Easy with Pasarkita!.`,
+    imgSrc: '/static/images/projects/logo_pasarkita.png',
+    href: '/blog/projects/pasarkita',
   },
 
   {
-    title: 'Havana Club x VALD',
-    description: `Operational launch of the Havana Club x VALD collaboration.`,
-    imgSrc: '/static/images/projects/havanaclub-vald.jpg',
-    href: '/blog/projects/havana-club-x-vald',
+    title: 'O-Care App',
+    description: `enhancing your oral health with artificial intelligence.`,
+    imgSrc: '/static/images/projects/logo_o-care.png',
+    href: '/blog/projects/o-care',
   },
 ];
 
