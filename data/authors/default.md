@@ -1,15 +1,15 @@
 ---
-name: Raphaël Chelly
+name: Agus Fahmi Aji Pramana
 avatar: /static/images/avatar.jpg
-occupation: Marketing Project Manager
-company: Octopia
+occupation: Student, Machine Learning 
+company: University of Muhammadiyah Malang
 email: hi@raphaelchelly.com
-twitter: https://twitter.com/raphael_chelly
-linkedin: https://www.linkedin.com/raphael.chelly
-github: https://github.com/raphaelchelly
+twitter: https://twitter.com/agfmi
+linkedin: https://www.linkedin.com/agusfahmiajipramana
+github: https://github.com/agusfahmi
 ---
 
-Graduated from a **Master in Management** at Excelia Business School, I am passionate about **digital and new technologies.** Creative, proactive, versatile and with a good understanding of digital and marketing, **I am confident in my ability to tackle new missions.** Organized and rigorous, I possess a range of key business and interpersonal skills that I have developed through my professional experiences.
+Undergraduated from a **Degree in Informatics** at University of Muhammadiyah Malang, I am passionate about **Machine Learning and Data Science.** Creative, proactive, versatile and with a good understanding of Data Science, **I am confident in my ability to tackle new missions.** Organized and rigorous, I possess a range of key business and interpersonal skills that I have developed through my professional experiences.
 
 - [💼 Experience](#experience)
 - [🧑🏻‍💻 Side Project](#side-project)
@@ -19,61 +19,55 @@ Graduated from a **Master in Management** at Excelia Business School, I am passi
 
 ## Experience
 
-### Marketing Project Manager @**[Octopia](https://octopia.com)**
+### Website Developer @**[Digima](https://digima.co.id)**
 
-`Oct 2021 - Today`
+`Aug 2023 - Okt 2023`
 
-Responsible for **the acquisition and marketing development of the Octopia Products offer** in order to develop the activity and e-commerce sales in France and internationally.
+Responsible for **the website development of the Digima Products offer** in order to develop the activity and Research about product.
 
-### Marketing Project Manager @[Microsoft](https://microsoft.net)
+### Machine Learning Cohort @[Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka](https://microsoft.net)
 
-`Sept 2019 - Sept 2020`
+`Feb 2023 - Jul 2023`
 
-Participation in the implementation of Microsoft France’s marketing plan for the Education audience (Primary/Secondary and Higher Education) in order to **develop the network of teachers and partner schools.**
+Selected as one of 5.000 among +67.000 applicants to join Google Bangkit Academy 2023 to learn the key concepts and applications of AI to solve a wide range of ML problems in the next 6 months with these specializations:
+- Google IT Automation with Python
+- Google Data Analytics
+- Math for Machine Learning
+- DeepLearning.Ai Tensorflow Developer Profesional Certificate
+- DeepLearning.Ai Tensorflow Data and Deployment 
 
-### Digital Project Manager @[Havana Club International](https://havana-club.com)
 
-`Jan 2019 - Jul 2019`
-
-As part of the International Marketing team and under the responsibility of the Senior Brand Manager, I participate in the launch and follow-up of **international digital projects** for Havana Club International, a subsidiary of Pernod Ricard group.
-
-### Digital Project Manager @[Pernod Ricard France](https://www.pernod-ricard.com/fr/nos-marches/france)
-
-`Jul 2018 - Jan 2019`
-
-Support to the Digital Manager on the deployment of the **digital strategy of the Havana Club brand on the French market.**
 
 ## Side Project
 
-### Cofounder & Project Manager @[Fabrilab](https://fabrilab.net)
+### Freelance Website Development @[agusfahmi](https://agusfahmi.github.io)
 
-`Sept 2017 - Today`
+`Sept 2023 - Today`
 
-Creation of a communication agency in the form of a micro-enterprise. Fabrilab supports self-employed and small businesses in their **digital transition.**
+Create Website with **Framework.** as requested
 
-- Main clients : TotalEnergies, Solis International, SCEBOG (1st agricultural cooperative of Guyana)...
+- Main clients : People as personal website
 
 ## Education
 
-### Master in Management @[Excelia BS](https://www.excelia-group.com)
+### Degree in Informatics @[Excelia BS](https://www.umm.ac.id)
 
-`Sept 2016 - Sept 2020`
+`Sept 2020 - Sept 2024`
 
-Member of the «Conférence des Grandes Ecoles», AMBA, AACSB, EQUIS and EPAS accredited. Graduate of a master in management, specialising in Marketing & Brand Management.
+Undergraduate Informatics Engineering
 
 ## Skills
 
 ### Hard Skills:
 
 - 🇬🇧 English
-- 🇪🇸 Spanish
 - 🤹🏼‍♂️ Project Management
 - 🌐 WordPress
 - 💻 Digital Marketing
 - 🎨 Adobe CC
 - 🔍 SEO
-- 📊 Microsoft 365
-- 📨 E-CRM Management
+- 📊 Data Science
+- 🧠 Machine Learning/AI
 - 📱 Social Media Management
 
 ### Soft Skills:
@@ -81,8 +75,12 @@ Member of the «Conférence des Grandes Ecoles», AMBA, AACSB, EQUIS and EPAS ac
 - 🎨 Creative
 - 📚 Curious
 - 🤝🏼 Team Spirit
+- 📸 Photograpy
 
 ## Interests
+
+- 📊 Data Science
+- 🧠 Machine Learning/AI
 
 ### Sports:
 
