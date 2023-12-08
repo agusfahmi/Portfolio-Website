@@ -26,11 +26,11 @@ export default function Home({ posts }) {
         <div className="flex flex-col-reverse items-start sm:flex-row">
           <div className="flex flex-col pr-8">
             <h1 className="mb-1 text-3xl font-bold tracking-tight text-zinc-800 dark:text-white md:text-5xl">
-              Raphaël Chelly
+              Agus Fahmi Aji Pramana
             </h1>
-            <h2 className="mb-1 text-xl font-bold tracking-tight text-zinc-600 dark:text-white md:text-2xl">
-              Portfolio of a digital marketing guy who codes a bit.
-            </h2>
+            <h3 className="mb-1 text-xl font-medium tracking-tight text-zinc-600 dark:text-white md:text-lg">
+            Bangkit Academy 2023 Graduate | Undergraduate Computer Science | Machine Learning | AI |
+            </h3>
           </div>
           <div className="relative mb-8 mr-auto w-[100px] sm:mb-0 sm:w-[200px]">
             <Image
@@ -44,37 +44,40 @@ export default function Home({ posts }) {
         </div>
         <p className="space-y-4 text-zinc-500 dark:text-slate-300">
           <p className="my-4 leading-loose">
-            Graduated from a Master in Management at{' '}
+            Undergraduate from a Degree in Informatics at{' '}
             <a
               className="focusable rounded-sm font-medium text-zinc-800 underline decoration-blue-500 decoration-2 underline-offset-2 transition duration-100 hover:text-blue-500 hover:decoration-sky-500/30 focus:text-blue-500 focus:ring-sky-500/40 dark:text-white dark:decoration-sky-400 dark:hover:text-sky-400 dark:hover:decoration-sky-400/30 dark:focus:text-sky-400 dark:focus:ring-sky-400/40"
-              href="https://www.excelia-group.com/"
+              href="https://www.umm.ac.id/"
               rel="noreferrer"
               target="_blank"
             >
-              Excelia Business School
+              University of Muhammadiyah Malang
             </a>
-            , I am passionate about digital, new technologies and Web3 projects. During my
-            professional experiences, I was able to discover many sectors of activity : Wines and
-            Spirits at{' '}
+            ,Experienced in Machine Learning, AI, Web Frameworks, and exploring technological advancements.
+            My aspirations in the technology sector are driven by a clear vision and mission. I am particularly
+            intrigued by Machine Learning, Artificial Intelligence, and Data Science, with a profound enthusiasm for data.
+            A few moments ago, I successfully completed the{' '}
             <a
               className="focusable rounded-sm font-medium text-zinc-800 underline decoration-blue-800 decoration-2 underline-offset-2 transition duration-100 hover:text-blue-800 hover:decoration-blue-800/30 focus:text-blue-500 focus:ring-blue-500/40 dark:text-white dark:decoration-sky-400 dark:hover:text-sky-400 dark:hover:decoration-sky-400/30 dark:focus:text-sky-400 dark:focus:ring-sky-400/40"
-              href="https://www.pernod-ricard.com/"
+              href="https://grow.google/intl/id_id/bangkit/"
               rel="noreferrer"
               target="_blank"
             >
-              Pernod Ricard
+              Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka
             </a>{' '}
-            as a Digital Project Manager & New Technologies at{' '}
+            My most recent experience involved interning at{' '}
             <a
               className="focusable rounded-sm font-medium text-zinc-800 underline decoration-green-500 decoration-2 underline-offset-2 transition duration-100 hover:text-green-500 hover:decoration-green-500/30 focus:text-lime-500 focus:ring-lime-500/40 dark:text-white dark:decoration-lime-400 dark:hover:text-lime-400 dark:hover:decoration-lime-400/30 dark:focus:text-lime-400 dark:focus:ring-lime-400/40"
-              href="https://www.microsoft.com/"
+              href="https://digima.co.id/"
               rel="noreferrer"
               target="_blank"
             >
-              Microsoft
+              Digima
             </a>{' '}
-            as a Marketing Project Manager. Today I work in Bordeaux as a Marketing Project Manager
-            at{' '}
+            , a startup, where I worked as a web developer. Currently in my 7th semester,
+             I am delving deep into subjects like Data Science, AI, Machine Learning, and 
+             Deep Learning to enhance my skills for future professional endeavors.
+             {/* {' '}
             <a
               className="focusable rounded-sm font-medium text-zinc-800 underline decoration-sky-700 decoration-2 underline-offset-2 transition duration-100 hover:text-sky-700 hover:decoration-sky-500/30 focus:text-orange-500 focus:ring-sky-500/40 dark:text-white dark:decoration-blue-400 dark:hover:text-blue-400 dark:hover:decoration-blue-400/30 dark:focus:text-blue-400 dark:focus:ring-blue-400/40"
               href="https://www.octopia.com/"
@@ -93,13 +96,13 @@ export default function Home({ posts }) {
               Fabrilab
             </a>
             , that I'm still working on. Versatile & curious in digital marketing, I am confident in
-            several aspects such as Social Media, SEO, E-CRM & Content creation.{' '}
+            several aspects such as Social Media, SEO, E-CRM & Content creation.{' '} */}
           </p>
         </p>
         <div className="mt-8 flex flex-wrap gap-4 text-center">
           <a
             className="focusable flex flex-none cursor-pointer items-center justify-center gap-2 rounded-md bg-blue-500 py-2 px-2.5 font-medium text-white shadow-lg shadow-blue-500/10 transition selection:bg-white/30 hover:bg-blue-500/80 hover:shadow-blue-500/5 focus:ring-blue-500/40 dark:bg-blue-400 dark:text-zinc-900 dark:shadow-blue-400/10 dark:selection:bg-zinc-900/30 dark:hover:bg-blue-400/80 dark:hover:shadow-blue-400/5 dark:focus:ring-blue-400/40 sm:w-auto sm:px-3 sm:pl-2.5"
-            href="https://www.linkedin.com/in/raphaelchelly"
+            href="https://www.linkedin.com/in/agusfahmiajipramana/"
             rel="noreferrer"
             target="_blank"
           >
@@ -115,7 +118,7 @@ export default function Home({ posts }) {
           </a>
           <a
             className="focusable flex flex-none cursor-pointer items-center justify-center gap-2 rounded-md bg-indigo-500 py-2 px-2.5 font-medium text-white shadow-lg shadow-indigo-500/10 transition selection:bg-white/30 hover:bg-indigo-500/80 hover:shadow-indigo-500/5 focus:ring-indigo-500/40 dark:bg-indigo-400 dark:text-zinc-900 dark:shadow-indigo-400/10 dark:selection:bg-zinc-900/30 dark:hover:bg-indigo-400/80 dark:hover:shadow-indigo-400/5 dark:focus:ring-indigo-400/40 sm:w-auto sm:px-3 sm:pl-2.5"
-            href="https://github.com/raphaelchelly"
+            href="https://github.com/agusfahmi"
             rel="noreferrer"
             target="_blank"
           >
@@ -131,7 +134,7 @@ export default function Home({ posts }) {
           </a>
           <a
             className="focusable flex flex-none cursor-pointer items-center justify-center gap-2 rounded-md bg-lime-500 py-2 px-2.5 font-medium text-white shadow-lg shadow-lime-500/10 transition selection:bg-white/30 hover:bg-lime-500/80 hover:shadow-lime-500/5 focus:ring-lime-500/40 dark:bg-lime-400 dark:text-zinc-900 dark:shadow-lime-400/10 dark:selection:bg-zinc-900/30 dark:hover:bg-lime-400/80 dark:hover:shadow-lime-400/5 dark:focus:ring-lime-400/40 sm:w-auto sm:px-3 sm:pl-2.5"
-            href="mailto:hi@raphaelchelly.com"
+            href="mailto:agusfahmiajipramana@gmail.com"
           >
             <svg height="24" role="presentation" width="24" xmlns="http://www.w3.org/2000/svg">
               <path
@@ -145,7 +148,7 @@ export default function Home({ posts }) {
           </a>
           <a
             className="focusable flex flex-none cursor-pointer items-center justify-center gap-2 rounded-md bg-blue-500 py-2 px-2.5 font-medium text-white shadow-lg shadow-blue-500/10 transition selection:bg-white/30 hover:bg-blue-500/80 hover:shadow-blue-500/5 focus:ring-blue-500/40 dark:bg-blue-400 dark:text-zinc-900 dark:shadow-blue-400/10 dark:selection:bg-zinc-900/30 dark:hover:bg-blue-400/80 dark:hover:shadow-blue-400/5 dark:focus:ring-blue-400/40 sm:w-auto sm:px-3 sm:pl-2.5"
-            href="https://twitter.com/raphael_chelly"
+            href="https://twitter.com/agfmi"
             rel="noreferrer"
             target="_blank"
           >
@@ -204,17 +207,17 @@ export default function Home({ posts }) {
             <div className="flex min-w-0 flex-col justify-center">
               <p className="mb-1 flex items-center">
                 <span className="truncate font-semibold text-zinc-700 dark:text-zinc-100">
-                  Octopia
+                  Digima
                 </span>
                 <span className="ml-1.5 inline-block flex-none translate-y-px rounded bg-zinc-100 p-1 text-xs font-medium leading-none text-zinc-500 dark:bg-zinc-800 dark:text-zinc-400">
-                  2021
+                  2023
                   <span className="text-zinc-350 dark:text-zinc-550 mx-0.5">—</span>
-                  Today
+                  2023
                 </span>
               </p>
               <p className="flex items-center truncate">
                 <span className="flex-1 truncate text-zinc-500 dark:text-zinc-400">
-                  Marketing Project Manager
+                  Web Developer
                 </span>
               </p>
             </div>
@@ -237,22 +240,22 @@ export default function Home({ posts }) {
             <div className="flex min-w-0 flex-col justify-center">
               <p className="mb-1 flex items-center">
                 <span className="truncate font-semibold text-zinc-700 dark:text-zinc-100">
-                  Fabrilab
+                Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka
                 </span>
                 <span className="ml-1.5 inline-block flex-none translate-y-px rounded bg-zinc-100 p-1 text-xs font-medium leading-none text-zinc-500 dark:bg-zinc-800 dark:text-zinc-400">
-                  2017
+                  2023
                   <span className="text-zinc-350 dark:text-zinc-550 mx-0.5">—</span>
-                  Today
+                  2023
                 </span>
               </p>
               <p className="flex items-center truncate">
                 <span className="flex-1 truncate text-zinc-500 dark:text-zinc-400">
-                  Co-founder & Project Manager
+                  Machine Learning Cohort
                 </span>
               </p>
             </div>
           </li>
-          <li className="dark:text-zinc-350 my-5 flex items-center gap-4 text-zinc-500">
+          {/* <li className="dark:text-zinc-350 my-5 flex items-center gap-4 text-zinc-500">
             <a
               className="link focusable font-medium text-zinc-800 dark:text-white"
               href="https://www.microsoft.com/"
@@ -284,8 +287,8 @@ export default function Home({ posts }) {
                 </span>
               </p>
             </div>
-          </li>
-          <li className="dark:text-zinc-350 my-5 flex items-center gap-4 text-zinc-500">
+          </li> */}
+          {/* <li className="dark:text-zinc-350 my-5 flex items-center gap-4 text-zinc-500">
             <a
               className="link focusable font-medium text-zinc-800 dark:text-white"
               href="https://www.pernod-ricard.com/"
@@ -317,7 +320,7 @@ export default function Home({ posts }) {
                 </span>
               </p>
             </div>
-          </li>
+          </li> */}
         </ul>
       </div>
 
