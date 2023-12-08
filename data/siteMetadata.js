@@ -1,5 +1,5 @@
 const siteMetadata = {
-  title: 'Agus Fahmi Aji Pramana - Machine Learning',
+  title: 'Agus Fahmi Aji Pramana - Portfolio Website',
   author: 'Agus Fahmi Aji Pramana',
   headerTitle: 'Agus Fahmi Aji Pramana',
   description: 'Portfolio of a Student Machine Learning.',
@@ -7,7 +7,7 @@ const siteMetadata = {
   theme: 'system', // system, dark or light
   siteUrl: 'https://agusfahmiajipramana.vercel.app/',
   siteRepo: 'https://github.com/agusfahmi/agusfahmiajipramana',
-  siteLogo: '/static/images/raph-logo.png',
+  siteLogo: '/static/images/happy-face.png',
   image: '/static/images/avatar.jpg',
   socialBanner: '/static/images/twitter-card.png',
   email: 'agusfahmiajipramana@gmail.com',
