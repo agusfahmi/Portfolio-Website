@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Agus Fahmi Aji Pramana - Portfolio Website',
   author: 'Agus Fahmi Aji Pramana',
   headerTitle: 'Agus Fahmi Aji Pramana',
-  description: 'Portfolio of a Student Machine Learning.',
+  description: 'Portfolio Website',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://agusfahmiajipramana.vercel.app/',
