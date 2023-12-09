@@ -192,12 +192,12 @@ export default function Home({ posts }) {
           <li className="dark:text-zinc-350 my-5 flex items-center gap-4 text-zinc-500">
             <a
               className="link focusable font-medium text-zinc-800 dark:text-white"
-              href="https://www.octopia.com/"
+              href="https://digima.co.id/"
               rel="noreferrer"
               target="_blank"
             >
               <Image
-                src="/static/images/workxp/octopia.jpg"
+                src="/static/images/workxp/logo_digima.png"
                 alt="Octopia"
                 width="50px"
                 height="50px"
@@ -225,12 +225,12 @@ export default function Home({ posts }) {
           <li className="dark:text-zinc-350 my-5 flex items-center gap-4 text-zinc-500">
             <a
               className="link focusable font-medium text-zinc-800 dark:text-white"
-              href="https://www.fabrilab.net/"
+              href="https://grow.google/intl/id_id/bangkit/"
               rel="noreferrer"
               target="_blank"
             >
               <Image
-                src="/static/images/workxp/fabrilab2.jpg"
+                src="/static/images/workxp/logo_bangkit.png"
                 alt="Octopia"
                 width="50px"
                 height="50px"
