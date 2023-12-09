@@ -50,7 +50,7 @@ Create Website with **Framework.** as requested
 
 ## Education
 
-### Degree in Informatics @[Excelia BS](https://www.umm.ac.id)
+### Degree in Informatics @[University of Muhammadiyah Malang](https://www.umm.ac.id)
 
 `Sept 2020 - Sept 2024`
 
@@ -75,7 +75,7 @@ Undergraduate Informatics Engineering
 - 🎨 Creative
 - 📚 Curious
 - 🤝🏼 Team Spirit
-- 📸 Photograpy
+- 🙍‍♂️ Leadership
 
 ## Interests
 
@@ -84,31 +84,12 @@ Undergraduate Informatics Engineering
 
 ### Sports:
 
-- 🏄🏽‍♂️ Bodyboarding & Surfing
+- 🏕 Hiking 
 - 🏊🏼‍♂️ Swimming
-
-|                                                       |                                         |
-| ----------------------------------------------------- | --------------------------------------- |
-| ![Bodyboarding](/static/images/bodyboarding-raph.jpg) | ![Wave](/static/images/wave-france.jpg) |
+- 🏃‍♂️ Running
 
 ### Others:
 
 - 🗺️ Discovery and Traveling
 - 📷 Photography
 - 🎶 Music
-- ♟️ Chess ➡️ [Chess.com](https://www.chess.com/member/raphythe)
-
-### Humanitarian:
-
-- 🤝🏼 Volunteer teacher in Cambodia in 2017 for 3 months in a children’s centre **"Les Enfants de Klang Leu".** As a teacher, I taught French, English and IT. Practice hygiene rules and help with the daily life of the center.
-
-### Other Experiences:
-
-- **2021:** TikTok Business for Enterprise training
-- **2020:** Facebook Spark AR Tutorials
-- **2018:** Bike courier for Deliveroo and Uber Eats
-- **2018:** Ambassador [ASUS](https://www.asus.com/fr/) Vivobook S and ASUS ZenFone 5
-- **2017-2018:** Digital Project Manager of the Student Office of Excela Business School
-- **2017:** Hotel receptionist in Australia at the [Nomads Noosa Hotel](https://nomadsworld.com/australia/nomads-noosa/)
-- **2016-2017:** Bank teller at [La Poste Group](https://www.lapostegroupe.com/fr) (replacement during the holidays)
-- **2015:** Online advisor at [CIC](https://www.cic.fr/fr/index.html) (6-month fixed-term contract)
