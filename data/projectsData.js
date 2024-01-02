@@ -24,6 +24,12 @@ const projectsData = [
     imgSrc: '/static/images/projects/logo_o-care.png',
     href: '/blog/projects/o-care',
   },
+  {
+    title: 'Zen HealthApp',
+    description: `enhancing your general health with artificial intelligence.`,
+    imgSrc: '/static/images/projects/logo_o-care.png',
+    href: '/blog/projects/zenhealth',
+  },
 ];
 
 export default projectsData;
