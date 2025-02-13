@@ -29,7 +29,7 @@ export default function Home({ posts }) {
               Agus Fahmi Aji Pramana
             </h1>
             <h3 className="mb-1 text-xl font-medium tracking-tight text-zinc-600 dark:text-white md:text-lg">
-            Bangkit Academy 2023 Graduate | Undergraduate Computer Science | Machine Learning | AI |
+            Fresh Graduate Informatics @ University of Muhammadiyah Malang | Ex Machine Learning @ Bangkit 2023 | ML/AI Engineer | Data Analyst | Data Scientist
             </h3>
           </div>
           <div className="relative mb-8 mr-auto w-[100px] sm:mb-0 sm:w-[200px]">
@@ -44,7 +44,7 @@ export default function Home({ posts }) {
         </div>
         <p className="space-y-4 text-zinc-500 dark:text-slate-300">
           <p className="my-4 leading-loose">
-            Undergraduate from a Degree in Informatics at{' '}
+            Fresh Graduate from a Degree in Informatics at{' '}
             <a
               className="focusable rounded-sm font-medium text-zinc-800 underline decoration-blue-500 decoration-2 underline-offset-2 transition duration-100 hover:text-blue-500 hover:decoration-sky-500/30 focus:text-blue-500 focus:ring-sky-500/40 dark:text-white dark:decoration-sky-400 dark:hover:text-sky-400 dark:hover:decoration-sky-400/30 dark:focus:text-sky-400 dark:focus:ring-sky-400/40"
               href="https://www.umm.ac.id/"
@@ -53,7 +53,7 @@ export default function Home({ posts }) {
             >
               University of Muhammadiyah Malang
             </a>
-            ,Experienced in Machine Learning, AI, Web Frameworks, and exploring technological advancements.
+            , Experienced in Data Science, Data Analyst, Machine Learning, AI, Web Frameworks, and exploring technological advancements.
             My aspirations in the technology sector are driven by a clear vision and mission. I am particularly
             intrigued by Machine Learning, Artificial Intelligence, and Data Science, with a profound enthusiasm for data.
             A few moments ago, I successfully completed the{' '}
@@ -74,9 +74,9 @@ export default function Home({ posts }) {
             >
               Digima
             </a>{' '}
-            , a startup, where I worked as a web developer. Currently in my 7th semester,
-             I am delving deep into subjects like Data Science, AI, Machine Learning, and 
-             Deep Learning to enhance my skills for future professional endeavors.
+            , a startup, where I worked as a web developer. CI am currently looking for a job in a related field. 
+            I am delving deep into subjects like Data Science, AI, 
+            Machine Learning, and Deep Learning to enhance my skills for future professional endeavors.
              {/* {' '}
             <a
               className="focusable rounded-sm font-medium text-zinc-800 underline decoration-sky-700 decoration-2 underline-offset-2 transition duration-100 hover:text-sky-700 hover:decoration-sky-500/30 focus:text-orange-500 focus:ring-sky-500/40 dark:text-white dark:decoration-blue-400 dark:hover:text-blue-400 dark:hover:decoration-blue-400/30 dark:focus:text-blue-400 dark:focus:ring-blue-400/40"
