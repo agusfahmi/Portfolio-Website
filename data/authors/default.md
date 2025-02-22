@@ -1,7 +1,7 @@
 ---
 name: Agus Fahmi Aji Pramana
 avatar: /static/images/avatar.jpg
-occupation: Student, Machine Learning 
+occupation: Data Scientist, Machine Learning 
 company: University of Muhammadiyah Malang
 email: agusfahmiajipramana@gmail.com
 twitter: https://twitter.com/agfmi
